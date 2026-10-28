@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/huggingface/transformers-ci/commit/431b37bd4122d418db1d779ee76e5c5cdc63fbc2",
       "git:hexsha": "431b37bd4122d418db1d779ee76e5c5cdc63fbc2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/huggingface/transformers-ci/commit/cfafb9496d74457167f95591a4f495336d3b876b",
