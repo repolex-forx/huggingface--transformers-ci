@@ -1,0 +1,11 @@
+{
+  "org": "huggingface",
+  "repo": "transformers-ci",
+  "versions": [
+    {
+      "commit": "431b37bd4122d418db1d779ee76e5c5cdc63fbc2",
+      "tag": "",
+      "parsed_at": "2026-10-28T17:53:53.255017+00:00"
+    }
+  ]
+}
